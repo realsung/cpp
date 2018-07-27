@@ -5,6 +5,7 @@
 * 탄광 보고서 : 8월 7일 23시 까지
 
 1. 곡괭이 만들기
+
 #chapter 1: A Crash Course in C++ and the Standard Library
 - C ++ 언어와 표준 라이브러리의 가장 중요한 부분과 구문에 대한 간략한 개요
 - 스마트 포인터의 기초
